@@ -21,7 +21,6 @@ public class L1_033 {
             int val_2 = intArr[i][1];
 
             if(val_1 > val_2) {
-                int temp = val_2;
                 intArr[i][1] = val_1;
                 intArr[i][0] = val_2;
             }
