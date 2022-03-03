@@ -8,6 +8,7 @@ import java.util.*;
 //  solution : 그림에 몇 개의 영역이 있는지 / 가장 큰 영역의 넓이는 얼마인지
 
 //  https://programmers.co.kr/learn/courses/30/lessons/1829
+//  https://www.acmicpc.net/problem/2178 (백준 BFS)
 public class L2_003 {
 
     public static final int[] dx = {1, -1,  0,  0};
