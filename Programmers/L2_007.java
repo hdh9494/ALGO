@@ -36,6 +36,7 @@ public class L2_007 {
 
         sum = sum + (numbers[idx] * -1);
         dfs(numbers, target, idx+1, sum);
+        sum = sum - (numbers[idx] * -1);
     }
 
 
