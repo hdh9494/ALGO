@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers.LEVEL_2;
 
 //  타겟 넘버
 //  input    : int[]
